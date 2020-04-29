@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DashLane Clone</string>
+    <string name="action_settings">Settings</string>
+    <string name="Generate">Button</string>
+    <string name="generate_your_password">Generate your password</string>
+    <string name="generate">Generate</string>
+</resources>
